@@ -1,0 +1,1 @@
+C:\Users\pruck\source\repos\ToDoList_React_v1\obj\Debug\todolist_react_v1.esproj.CoreCompileInputs.cache
